@@ -1,8 +1,9 @@
-# Docker Limux Shell
+# Docker Linux Shell
 Create linux shells in docker per users request. This might be ideal for classroom settings for teaching/testing stuff. 
 
 ## Why
 Made this for reddit post: https://www.reddit.com/r/selfhosted/comments/1ekr2nm/looking_for_a_service_that_can_automatically/
+
 This is no way perfect or finished, its just a POC that should be built up. I made this while laying in bed on my phone. 
 
 ## Setup
